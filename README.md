@@ -29,4 +29,4 @@ AnE-Ticket offers many advantages for both travelers and airline includingsecuri
 
 
 ### RESULT:
-Thus the ATM and banking System project was executed and the output was verified.
+ Thus the project to develop e-ticketing systemwas developed using Star UML Software.
